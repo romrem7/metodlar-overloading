@@ -1,0 +1,14 @@
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\bin\Debug\net7.0\metodlar-overloading.exe
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\bin\Debug\net7.0\metodlar-overloading.deps.json
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\bin\Debug\net7.0\metodlar-overloading.runtimeconfig.json
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\bin\Debug\net7.0\metodlar-overloading.dll
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\bin\Debug\net7.0\metodlar-overloading.pdb
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\obj\Debug\net7.0\metodlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\obj\Debug\net7.0\metodlar-overloading.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\obj\Debug\net7.0\metodlar-overloading.AssemblyInfo.cs
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\obj\Debug\net7.0\metodlar-overloading.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\obj\Debug\net7.0\metodlar-overloading.dll
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\obj\Debug\net7.0\refint\metodlar-overloading.dll
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\obj\Debug\net7.0\metodlar-overloading.pdb
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\obj\Debug\net7.0\metodlar-overloading.genruntimeconfig.cache
+C:\Users\Developer\Desktop\Pratikler\metodlar-overloading\obj\Debug\net7.0\ref\metodlar-overloading.dll
